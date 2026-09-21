@@ -2,7 +2,7 @@
 
 ## Student Details
 
-* **Student Name:** Mayank Upadhyay
+* **Student Name:** Mayank M Upadhyay
 * **ZPRN:** 125UAD1020
 * **Class/Division:** B.Tech AIDS SY-E
 * **Course Name:** Object-Oriented Programming Using C++
